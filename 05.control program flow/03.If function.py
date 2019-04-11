@@ -1,9 +1,9 @@
-# If method
+# If function
 
-# If you want to make a good program flow, you have to use the 'If method'
-# If method is same if grammer in english.
+# If you want to make a good program flow, you have to use the 'If function'
+# If function is same if grammer in english.
 
-# I'll make a ealier program to use the If method.
+# I'll make a ealier program to use the If function.
 # If someone wirte the number, the number will divide by three.
 # But someone wirte a '0' numver, this program will stop and push the error message.
 
@@ -15,7 +15,7 @@ if a == 0 :
 else :
     print ('3 /', a, '=', 3/a)
 
-# Also you can use the 'else if' after 'if method'.
+# Also you can use the 'else if' after 'if function'.
 
 Print('Write the day(Monday to sunday) : ')
 day = input()
