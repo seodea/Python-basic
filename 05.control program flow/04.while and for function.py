@@ -1,6 +1,6 @@
-# While, for method (Loop Statement)
+# While, for function (Loop Statement)
 
-# This 'While method' will help you if you want to make a loop program until data is True.
+# This 'While function' will help you if you want to make a loop program until data is True.
 
 print('How many time do you want to repeat it? : ')
 limit = int(input())
@@ -12,8 +12,8 @@ while count < limit :
 
 print('End')
 
-# Also you can use the 'If method' in 'while method'
-# And you can make a 'Infinite Loop' by 'while method'
+# Also you can use the 'If function' in 'while function'
+# And you can make a 'Infinite Loop' by 'while function'
 
 while True:
     print('Do you want to reapeat? [Yes/No]')
