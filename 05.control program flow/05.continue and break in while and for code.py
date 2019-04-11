@@ -1,6 +1,6 @@
-# continue and break method
+# continue and break code
 
-# You can controll the your 'while' and 'for' method to use the 'continue' or 'break'.
+# You can controll the your 'while' and 'for' function to use the 'continue' or 'break'.
 
 # Next program is example for contiune.
 
